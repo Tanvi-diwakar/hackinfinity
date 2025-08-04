@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Electrician - Residential Wiring",
+    "description": "Experienced electrician needed for residential wiring projects in Mumbai. Must have 2+ years experience with house wiring, electrical installations, and troubleshooting. Salary ₹15,000-25,000 per month.",
+    "location": "Mumbai",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 2,
+    "title": "Truck Driver - Long Distance",
+    "description": "Heavy vehicle driver required for goods transportation across Maharashtra and Gujarat. Valid heavy vehicle license mandatory. Experience in long-distance driving preferred. Salary ₹18,000-22,000.",
+    "location": "Pune",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 3,
+    "title": "Plumber - Commercial Buildings",
+    "description": "Skilled plumber needed for commercial building maintenance in Delhi NCR. Experience with pipe fitting, leak repairs, and bathroom installations required. Salary ₹16,000-20,000.",
+    "location": "Delhi",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 4,
+    "title": "Housekeeping Staff",
+    "description": "Housekeeping staff required for office cleaning and maintenance in Bangalore. Daily cleaning, sanitization, and basic maintenance tasks. Salary ₹12,000-15,000.",
+    "location": "Bangalore",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 5,
+    "title": "AC Technician",
+    "description": "Air conditioning technician needed for installation and repair services in Chennai. Experience with split AC, window AC, and central AC systems. Salary ₹20,000-28,000.",
+    "location": "Chennai",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 6,
+    "title": "Auto Rickshaw Driver",
+    "description": "Auto rickshaw drivers needed in Hyderabad. Own vehicle preferred but not mandatory. Good knowledge of city routes required. Daily earnings ₹800-1200.",
+    "location": "Hyderabad",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 7,
+    "title": "Construction Worker",
+    "description": "Construction workers needed for residential building project in Ahmedabad. Experience in masonry, concrete work, and general construction. Daily wage ₹500-700.",
+    "location": "Ahmedabad",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 8,
+    "title": "Security Guard",
+    "description": "Security guards required for corporate offices in Kolkata. 12-hour shifts, basic security training provided. Must be physically fit. Salary ₹14,000-18,000.",
+    "location": "Kolkata",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 9,
+    "title": "Delivery Boy - Food",
+    "description": "Food delivery executives needed in Jaipur. Own two-wheeler required. Flexible working hours, incentive-based earnings. Daily earnings ₹600-1000.",
+    "location": "Jaipur",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  },
+  {
+    "id": 10,
+    "title": "Carpenter - Furniture Making",
+    "description": "Skilled carpenter required for furniture manufacturing unit in Lucknow. Experience in wood working, furniture assembly, and finishing. Salary ₹17,000-23,000.",
+    "location": "Lucknow",
+    "source": "Skill India Digital",
+    "scraped_at": "2025-06-28T04:00:00.327195"
+  }
+]
